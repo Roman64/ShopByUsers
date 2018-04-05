@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShopByUsers</string>
+    <string name="action_settings">Settings</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="textHintToLogin">Введите логин</string>
+    <string name="textHintToPassword">Введите пароль</string>
+    <string name="buttonEnterText">Войти</string>
+    <string name="title_activity_list_shops">ListShopsActivity</string>
+    <string name="textMagasins">Введите название магазина</string>
+    <string name="buttonAddMagazin">Добавить магазин</string>
+    <string name="textviewListShops">TextView</string>
+</resources>
